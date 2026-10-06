@@ -12,7 +12,7 @@ const PLAY_STORE_URL = playStoreUrl();
 export const metadata: Metadata = {
   title: "Download Zedu App | Mobile and Desktop Learning Workspace",
   description:
-    "Download Zedu on iOS, Android, and desktop. Join classes, chat with peers, manage files, and stay updated in one connected learning workspace.",
+    "Download Zedu on iOS, Android, and desktop. Join classes, chat with peers, manage files, and stay informed in one connected learning workspace.",
   keywords: [
     "Zedu app download",
     "download Zedu",
